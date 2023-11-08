@@ -26,8 +26,8 @@ These instructions will help you set up the WhatsApp Business Name API on your l
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/whatsapp-business-api.git
-   cd whatsapp-business-api
+   git clone https://github.com/abdulrehman043/whatsapp_business_name.git
+   cd whatsapp_business_name
 2. Install Required dependencies
    ```bash
    pip install -r requirements.txt
