@@ -39,7 +39,7 @@ These instructions will help you set up the WhatsApp Business Name API on your l
 In post request give :
 ```
 {
-    "number": "919891226461"
+    "number": "919891XX6461"
 }
 
 
