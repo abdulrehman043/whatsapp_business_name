@@ -8,7 +8,7 @@ def get_whatsapp_business_name(number):
 
     Args:
         number (str): The phone number for which you want to retrieve the WhatsApp Business name.
-            The number should be in the format '91XXXXXXXXXX' (e.g., '919891226461').
+            The number should be in the format '91XXXXXXXXXX' (e.g., '9198XXXXX1').
 
     Returns:
         str: The WhatsApp Business name if found, or 'default' if not found.
