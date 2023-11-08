@@ -14,7 +14,7 @@ def get_whatsapp_business_name(number):
         str: The WhatsApp Business name if found, or 'default' if not found.
 
     Example:
-        >>> get_whatsapp_business_name('919891226461')
+        >>> get_whatsapp_business_name('91XXXXXXXXXX')
         'WhatsApp Business Name'  # Example WhatsApp Business name
 
     Note:
