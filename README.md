@@ -37,16 +37,14 @@ These instructions will help you set up the WhatsApp Business Name API on your l
 4. Access API
    http://localhost:5000/whatsapp_business
 In post request give :
-```
-{
+```{
     "number": "919891XX6461"
-}
+   }
 
-5. Result/Response from API API : 
-```
-{
+4. Responnse from API API
+```{
     "result": "Abdul Rehman"
-}
+   }
 
 
 
