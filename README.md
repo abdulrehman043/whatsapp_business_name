@@ -41,8 +41,8 @@ In post request give :
 {
     "number": "919891XX6461"
 }
+
 5. Result/Response from API API : 
-In post request give :
 ```
 {
     "result": "Abdul Rehman"
