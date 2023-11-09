@@ -38,6 +38,7 @@ These instructions will help you set up the WhatsApp Business Name API on your l
    http://localhost:5000/whatsapp_business
 In post request give :
 ```
+Input : 
 {
     "number": "919891XX6461"
 }
