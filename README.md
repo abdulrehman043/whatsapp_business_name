@@ -41,11 +41,9 @@ In post request give :
 {
     "number": "919891XX6461"
 }
-
-4. Responnse from API API
-```
+Response :
 {
-    "result": "Abdul Rehman"
+   "result" : "Abdul Rehman"
 }
 
 
