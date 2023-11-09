@@ -13,7 +13,7 @@ The WhatsApp Business Name API is a Python-based web application that extracts a
 
 ## Getting Started
 
-These instructions will help you set up the WhatsApp Business Name API on your local machine for development and testing purposes. To deploy it in a production environment, refer to the deployment section.
+These instructions will help you set up the WhatsApp Business Name API on your local machine for development and testing purposes.
 
 ### Prerequisites
 
